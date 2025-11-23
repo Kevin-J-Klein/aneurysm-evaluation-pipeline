@@ -1,0 +1,16 @@
+{
+    "name": "CADA_3DRA",
+    "description": "3D rotational angiography dataset (binary labels).",
+    "reference": "",
+    "licence": "",
+    "release": "1.0",
+    "channel_names": {
+        "0": "CADA"
+    },
+    "labels": {
+        "background": 0,
+        "aneurysm": 1
+    },
+    "numTraining": 109,
+    "file_ending": ".nii.gz"
+}
